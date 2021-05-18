@@ -2,7 +2,7 @@
 
 <br>
 
-[Accueil](https://motsmachines.github.io/2019/fr) | [Participations](https://motsmachines.github.io/2019/fr/cfp) | [Programme](https://motsmachines.github.io/2019/fr/program) | [Organisation](https://motsmachines.github.io/2019/fr/orga) | [S'inscrire](https://motsmachines.github.io/2019/fr/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2019/en)
+[Home](https://motsmachines.github.io/2019/en) | [Call for Papers](https://motsmachines.github.io/2019/en/cfp) | [Program](https://motsmachines.github.io/2019/en/program) | [Organizers](https://motsmachines.github.io/2019/en/orga) | [Registration](https://motsmachines.github.io/2019/en/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2019/fr)
 
 <br>
 
