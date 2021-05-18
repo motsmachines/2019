@@ -11,7 +11,7 @@
 
 ![Programme](programme.jpg)
 
-**Liste des communications :**
+## Summaries of the conferences
 
 * Communication de **Claire Larsonneur**
 * Communication de **Sandrine Kerespars**
