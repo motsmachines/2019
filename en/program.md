@@ -1,5 +1,7 @@
 Consultez le [programme](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines).
 
+![Programme](Programme.jpg)
+
 **Liste des communications :**
 
 * Communication de **Claire Larsonneur**
