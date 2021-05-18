@@ -1,6 +1,6 @@
 Consultez le [programme](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines).
 
-![Programme](Programme.jpg)
+![Programme](programme.jpg)
 
 **Liste des communications :**
 
