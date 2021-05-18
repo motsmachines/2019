@@ -13,13 +13,15 @@
 
 ## Summaries of the conferences
 
-* Communication de **Claire Larsonneur**
-* Communication de **Sandrine Kerespars**
-* Communication de **Linda Dewolf**
-* Communication de **François Brown de Colstoun**
-* Communication d'**Hanna Martikainen**
-* Communication de **Christophe Leblay**
-* Communication de **Nadéra Guidoum**
-* Communication d'**Elena Berthemet**
-* Communication de **Pierre Chartier**
-* Communication de **Alice Pennors**
+* **Claire Larsonneur**, Court-circuit et fluidité : le couple paradoxal de la traduction neuronale **[[summary]](sub/Larsonneur.pdf)**
+* **Sandrine Kerespars**, Le système de traduction automatique de la Comission européenne (eTranslation)
+* **Linda Dewolf**, La trajectoire de la traduction après traitement automatique – le cas des questionnaires santé **[[summary]](sub/Dewolf.pdf)**
+* **François Brown de Colstoun**, Retour d'expérience en post-édition de traduction automatique neuronale pour la documentation technique et les contrats juridiques.
+* **Hanna Martikainen**, La post-édition en langue de spécialité à l'ère neuronale : l’humain comme le garant de la cohésion et de la cohérence textuelle **[[summary]](sub/Martikainen.pdf)**
+* **Christophe Leblay**, Ecritures et réécritures professionnelles : de la mise en mots à la mise en images des processus scripturaux **[[summary]](sub/Leblay.pdf)**
+* **Nadéra Guidoum**, Traductique et intelligence artificielle : l’avenir du traducteur humain **[[summary]](sub/Guidoum.pdf)**
+* **Elena Berthemet**, Traduction humaine et automatique des expressions idiomatiques contenant des métaphores somatiques **[[summary]](sub/Berthemet.pdf)**
+* **Pierre Chartier**, Carnet de recherche : passer les mots à la machine. Retour sur l'utilisation de logiciels dans la recherche en analyse du discours.
+* **Alice Pennors**, Outils d'analyse du discours des internautes et enjeux de réputation.
+* **Arpine Mkrtchyan**, La problématique de la traduction dans la culture de l’Autre **[[summary]](sub/Mkrtchyan.pdf)**
+
