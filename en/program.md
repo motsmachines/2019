@@ -24,4 +24,3 @@
 * **Pierre Chartier**, Carnet de recherche : passer les mots à la machine. Retour sur l'utilisation de logiciels dans la recherche en analyse du discours.
 * **Alice Pennors**, Outils d'analyse du discours des internautes et enjeux de réputation.
 * **Arpine Mkrtchyan**, La problématique de la traduction dans la culture de l’Autre **[[summary]](sub/Mkrtchyan.pdf)**
-
