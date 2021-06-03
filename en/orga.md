@@ -7,3 +7,7 @@
 <br>
 
 ## Organizers
+
+### Organizing committee
+- Liana Ermakova, HCTI, UBO
+- Orlane Puchalski, student, UBO
