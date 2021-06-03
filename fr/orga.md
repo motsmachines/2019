@@ -14,4 +14,4 @@
 
 ### Comité d'organisation
 - Liana Ermakova, HCTI, UBO
-- Orlane Puchalski, student, UBO
+- Orlane Puchalski, étudiante, UBO
