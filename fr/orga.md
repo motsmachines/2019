@@ -8,6 +8,6 @@
 
 ## Organisation
 
-### Organizing committee
+### Comité d'organisation
 - Liana Ermakova, HCTI, UBO
 - Orlane Puchalski, student, UBO
