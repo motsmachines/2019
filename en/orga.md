@@ -11,5 +11,12 @@
 ### Program committee
 
 ### Organizing committee
-- Liana Ermakova, HCTI, UBO
+- Joanna Thornborrow, HCTI, UBO
+- Caroline Comacle, translator, UBO
+- Liana ERMAKOVA, HCTI, UBO
+- Marko Vidak, HTCI, UBO
+- Pierre Chartier, HCTI, UBO
+- David Banks, HCTI, UBO 
+
+### Website
 - Orlane Puchalski, student, UBO
