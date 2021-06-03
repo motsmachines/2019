@@ -8,6 +8,10 @@
 
 ## Organizers
 
+### Invited speakers
+
+### Program committee
+
 ### Organizing committee
 - Liana Ermakova, HCTI, UBO
 - Orlane Puchalski, student, UBO
