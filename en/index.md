@@ -28,6 +28,7 @@ Considering the ongoing crisis, we also encourage online participation.
 
 [2021 Website](https://motsmachines.github.io/2021)
 
+[2022 Website](https://motsmachines.github.io/2022)
 
 E-mail: [mots.machines@gmail.com](mailto:mots.machines@gmail.com)
 
